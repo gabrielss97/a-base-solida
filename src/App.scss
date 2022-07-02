@@ -1,0 +1,7 @@
+@use "./assets/scss/utils" as *;
+@use "./assets/scss/components" as *;
+
+.App {
+  background-color: red;
+  min-height: 100vh;
+}
